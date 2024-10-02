@@ -10,7 +10,7 @@ Python and Java languages.
 ### Domains I'm Interested In: Java Development | AI | Python | Computer Vision | Machine Learning | PHP 
 
 ### Web Developer and Coding Enthusiast
-- 📧 You can contact me at [your.email@example.com]
+- 📧 You can contact me at [priyanshchhabra0316@.com]
 - 🤝 I'm open to collaborating on interesting web app-based projects
 
 ### Skills
