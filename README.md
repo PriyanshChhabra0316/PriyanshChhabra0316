@@ -47,29 +47,6 @@ Python and Java languages.
   - **Project Showcases**: Highlighting personal projects and internships, demonstrating practical applications of skills.  
   - **Community Engagement**: Responding to comments, solving viewer's problems on Telegram, and creating content based on viewer requests.  
 
-# Anti-Spoofing Model for Face Recognition Systems
-
-## Project Overview
-This project was developed during a hackathon and features a website that provides an advanced Anti-Spoofing Model for Face Recognition Systems. The system ensures secure and reliable user authentication by effectively distinguishing between real and spoofed facial inputs, enhancing the security of face recognition technologies.
-
-## Technologies Used
-- **OpenCV and CVZone**: Utilized for real-time computer vision tasks, allowing the model to analyze and process facial inputs effectively.
-- **Ultralytics Library**: Implemented for training the anti-spoofing model, ensuring high accuracy in differentiating between real faces and spoofed inputs.
-- **HTML and CSS**: Used for front-end development, creating a user-friendly interface for easy interaction with the model.
-
-## Key Features
-- **Real-Time Analysis**: The model processes facial inputs in real-time, providing immediate feedback on the authenticity of the scanned face.
-- **High Accuracy**: Leveraging advanced machine learning techniques, the model achieves a high level of accuracy in identifying spoofed inputs.
-- **User-Friendly Interface**: The website is designed to be intuitive, ensuring a seamless user experience.
-
-## Outcomes
-- **Hackathon Achievement**: Successfully secured [2nd place] during the hackathon, showcasing the project's innovation and effectiveness.
-- **Collaboration**: Collaborated with team members to brainstorm ideas, develop the model, and present the final product to judges.
-
-## Future Work
-- **Enhancements**: Plans to integrate additional features, such as user authentication databases and more advanced machine learning techniques for improved accuracy.
-- **Feedback Incorporation**: Continuously seeking user feedback to enhance functionality and user experience.
-
 ## Contact
 - **Name**: Priyansh Chhabra  
 - **YouTube Channel**: [Priyansh Chhabra](https://www.youtube.com/@priyanshchhabra)  
