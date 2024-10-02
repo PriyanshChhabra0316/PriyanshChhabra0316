@@ -13,6 +13,17 @@ Python and Java languages.
 - 📧 You can contact me at priyanshchhabra0316@.com
 - 🤝 I'm open to collaborating on interesting web app-based projects
 
+### Experience 
+
+### Backend Developer Internship at CSIR-NIScPR
+**Council of Scientific and Industrial Research (CSIR-NIScPR)**  
+**Location**: New Delhi, India  
+**Duration**: August 2024 – September 2024  
+
+#### Key Responsibilities & Achievements:
+- **NKRC E-Resource Platform**: Developed a comprehensive web-based platform for the National Knowledge Resource Consortium (NKRC) using PHP, HTML, CSS, and MySQL.
+- **Asset Register Platform and Project Sanction Management System**: Assisted in building and contributing to backend development and database design.
+
 ### Skills
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
