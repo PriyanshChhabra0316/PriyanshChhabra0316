@@ -33,15 +33,17 @@ Python and Java languages.
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-### YouTube Channel Overview     [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@priyanshchhabra)
--Channel Name: Priyansh Chhabra
--Channel URL: https://www.youtube.com/@priyanshchhabra
--Content Focus:
--Topics Covered: Programming tutorials, project showcases, tech reviews, etc .
--Target Audience: Students, developers, tech enthusiasts, etc.
--Educational Content: Providing tutorials and explanations on various programming languages and technologies.
--Project Showcases: Highlighting personal projects and internships, demonstrating practical applications of skills.
--Community Engagement: Responding to comments and solving viewer's problems on telegram and creating content based on viewer requests.]
+### YouTube Channel Overview     
+- **Channel Name**: Priyansh Chhabra  
+- **Channel URL**: [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@priyanshchhabra)  
+- **Content Focus**:  
+  - **Topics Covered**: Programming tutorials, project showcases, tech reviews, etc.  
+  - **Target Audience**: Students, developers, tech enthusiasts, etc.  
+- **Key Features**:  
+  - **Educational Content**: Providing tutorials and explanations on various programming languages and technologies.  
+  - **Project Showcases**: Highlighting personal projects and internships, demonstrating practical applications of skills.  
+  - **Community Engagement**: Responding to comments, solving viewer's problems on Telegram, and creating content based on viewer requests.  
+
 
 
 ### Socials
