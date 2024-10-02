@@ -3,7 +3,7 @@
 Enthusiastic Computer Science Engineering student specialising in Artificial intelligence with a strong foundation in
 Python and Java languages.
 
-**Fullstack web developer with 2+ years experience.**
+**Fullstack developer with 2+ years experience.**
 
 ### Hobbies : Cricket 🏏 | Badminton 🏸 | Coding 💻
 
@@ -27,3 +27,5 @@ Python and Java languages.
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/priyanshh.chhabra)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyansh-chhabra-83225223a/)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/PriyanshChhabra)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/@priyanshchhabra)
+
