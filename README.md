@@ -73,7 +73,7 @@ This project was developed during a hackathon and features a website that provid
 ## Contact
 - **Name**: Priyansh Chhabra  
 - **YouTube Channel**: [Priyansh Chhabra](https://www.youtube.com/@priyanshchhabra)  
-- **GitHub**: [Your GitHub Profile](#) *(Insert your GitHub profile link here)*  
+- **GitHub**: [Your GitHub Profile](#) *(https://linkedin.com/in/priyansh-chhabra-83225223a/)*  
 
 
 ### Socials
