@@ -52,9 +52,6 @@ Python and Java languages.
 ## Project Overview
 This project was developed during a hackathon and features a website that provides an advanced Anti-Spoofing Model for Face Recognition Systems. The system ensures secure and reliable user authentication by effectively distinguishing between real and spoofed facial inputs, enhancing the security of face recognition technologies.
 
-### Project Link
-[Anti-Spoofing Model](#) *(Insert the actual link here)*
-
 ## Technologies Used
 - **OpenCV and CVZone**: Utilized for real-time computer vision tasks, allowing the model to analyze and process facial inputs effectively.
 - **Ultralytics Library**: Implemented for training the anti-spoofing model, ensuring high accuracy in differentiating between real faces and spoofed inputs.
