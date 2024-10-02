@@ -27,20 +27,19 @@ Python and Java languages.
 - **NKRC E-Resource Platform**: Developed a comprehensive web-based platform for the National Knowledge Resource Consortium (NKRC) using PHP, HTML, CSS, and MySQL.
 - **Asset Register Platform and Project Sanction Management System**: Assisted in building and contributing to backend development and database design.
 
-# Internship at Softapper Tech Solutions
+### Internship at Softapper Tech Solutions
 
-## Position
 **Backend Developer**  
 **Location**: Noida, India  
 **Duration**: April 2024 – May 2024  
 
-## Overview
+### Overview
 I successfully completed my internship in Backend Development at Softapper Tech Solutions, where I gained invaluable hands-on experience in developing backend systems. My time at the company not only enhanced my technical skills but also allowed me to understand the intricacies of software development in a professional environment.
 
-## Key Contributions
+### Key Contributions
 - **User Authentication System**: Developed a robust user authentication system that ensures secure access to applications and user data. This system included features such as user registration, login, password recovery, and role-based access control.
   
-## Achievements
+### Achievements
 - Awarded a **Certification** for my exceptional performance during the internship, recognizing my contributions and commitment to the team's success.
 
 
