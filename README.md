@@ -13,7 +13,7 @@ Python and Java languages.
 ### Domains I'm Interested In: Java Development | AI | Python | Computer Vision | Machine Learning | PHP 
 
 ### Java Developer and Coding Enthusiast
-- 📧 You can contact me at priyanshchhabra0316@.com
+- 📧 You can contact me at priichhabra0316@gmail.com
 - 🤝 I'm open to collaborating on interesting web app-based projects
 
 ### Experience : 
